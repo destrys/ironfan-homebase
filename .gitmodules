@@ -4,3 +4,6 @@
 [submodule "knife/example-credentials"]
 	path = knife/example-credentials
 	url = https://github.com/infochimps-labs/example-credentials.git
+[submodule "knife/test-credentials"]
+	path = knife/test-credentials
+	url = https://github.com/destrys/test-credentials.git
